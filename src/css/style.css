@@ -1,0 +1,13 @@
+h1
+{
+	font-size: 60px;
+	text-align: center;
+	font-family: arial;
+}
+
+body
+{
+	background: #444;
+	margin-top: 64px;
+	color: white;
+}
